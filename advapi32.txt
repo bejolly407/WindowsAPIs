@@ -80,6 +80,7 @@ CredWriteDomainCredentialsW
 CredWriteW
 DeleteAce
 DeleteService
+DeregisterEventSource
 DestroyPrivateObjectSecurity
 DuplicateToken
 DuplicateTokenEx
@@ -200,6 +201,8 @@ RegFlushKey
 RegGetKeySecurity
 RegGetValueA
 RegGetValueW
+RegisterEventSourceA
+RegisterEventSourceW
 RegisterServiceCtrlHandlerA
 RegisterServiceCtrlHandlerExA
 RegisterServiceCtrlHandlerExW
@@ -233,6 +236,8 @@ RegSetValueExA
 RegSetValueExW
 RegUnLoadKeyA
 RegUnLoadKeyW
+ReportEventA
+ReportEventW
 RevertToSelf
 SetAclInformation
 SetFileSecurityW

@@ -1,0 +1,12 @@
+CharLowerBuffW
+CharLowerW
+CharNextW
+CharPrevW
+CharUpperBuffW
+CharUpperW
+IsCharAlphaNumericW
+IsCharAlphaW
+IsCharLowerW
+IsCharUpperW
+LoadStringA
+LoadStringW
